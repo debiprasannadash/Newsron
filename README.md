@@ -1,3 +1,2 @@
 # Newsron
-News Website
-Newron is a project for the qutopia quiz society
+News Website - A project done using HTML & CSS 
